@@ -1,0 +1,1 @@
+<?php define("mysql_ip","127.0.0.1");define("mysql_name","mysql");define("mysql_uname","root");define("mysql_pw","root");define("Sys_first","Loo_");define("password","XIAOyifan2003")?>
